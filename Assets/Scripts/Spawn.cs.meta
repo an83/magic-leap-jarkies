@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a378d46b97593a2499b559483c2fc200
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jengaPiece: {fileID: 1628375485583404, guid: 24048ee9a40632a49bf14476f867264e,
+      type: 2}
+  - spawnLocationBase: {fileID: 400054, guid: e9d81fa9c952cea4ca53040edcd0966c, type: 3}
+  - preppedTower: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

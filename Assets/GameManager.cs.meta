@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac138df523f601c4c936f97b69139012
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgmclip: {fileID: 8300000, guid: 64ad40d15aedaec45a97abab6a1bb8f2, type: 3}
+  - yay: {fileID: 8300000, guid: ec1ef41007357487ab73ef984acdecf1, type: 3}
+  - aww: {fileID: 8300000, guid: fdadbaed28967415eb9d9dd04dfe04c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

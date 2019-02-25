@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 1ce824061dc91e241b69aa5a3de86fca
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Low_Poly_airship:baloon
+    100004: Low_Poly_airship:cabin_1
+    100006: Low_Poly_airship:cube
+    100008: Low_Poly_airship:cube1
+    100010: Low_Poly_airship:cube2
+    100012: Low_Poly_airship:propeller1
+    100014: Low_Poly_airship:propeller2
+    100016: Low_Poly_airship:propeller3
+    100018: Low_Poly_airship:propeller4
+    100020: Low_Poly_airship:sper
+    100022: Low_Poly_airship:wings
+    100024: pCylinder1
+    100026: pCylinder2
+    100028: pCylinder3
+    100030: pCylinder4
+    400000: //RootNode
+    400002: Low_Poly_airship:baloon
+    400004: Low_Poly_airship:cabin_1
+    400006: Low_Poly_airship:cube
+    400008: Low_Poly_airship:cube1
+    400010: Low_Poly_airship:cube2
+    400012: Low_Poly_airship:propeller1
+    400014: Low_Poly_airship:propeller2
+    400016: Low_Poly_airship:propeller3
+    400018: Low_Poly_airship:propeller4
+    400020: Low_Poly_airship:sper
+    400022: Low_Poly_airship:wings
+    400024: pCylinder1
+    400026: pCylinder2
+    400028: pCylinder3
+    400030: pCylinder4
+    2100000: lambert1
+    2300000: Low_Poly_airship:baloon
+    2300002: Low_Poly_airship:cabin_1
+    2300004: Low_Poly_airship:cube
+    2300006: Low_Poly_airship:cube1
+    2300008: Low_Poly_airship:cube2
+    2300010: Low_Poly_airship:propeller1
+    2300012: Low_Poly_airship:propeller2
+    2300014: Low_Poly_airship:propeller3
+    2300016: Low_Poly_airship:propeller4
+    2300018: Low_Poly_airship:sper
+    2300020: Low_Poly_airship:wings
+    2300022: pCylinder1
+    2300024: pCylinder2
+    2300026: pCylinder3
+    2300028: pCylinder4
+    3300000: Low_Poly_airship:baloon
+    3300002: Low_Poly_airship:cabin_1
+    3300004: Low_Poly_airship:cube
+    3300006: Low_Poly_airship:cube1
+    3300008: Low_Poly_airship:cube2
+    3300010: Low_Poly_airship:propeller1
+    3300012: Low_Poly_airship:propeller2
+    3300014: Low_Poly_airship:propeller3
+    3300016: Low_Poly_airship:propeller4
+    3300018: Low_Poly_airship:sper
+    3300020: Low_Poly_airship:wings
+    3300022: pCylinder1
+    3300024: pCylinder2
+    3300026: pCylinder3
+    3300028: pCylinder4
+    4300000: Low_Poly_airship:cabin_1
+    4300002: Low_Poly_airship:wings
+    4300004: Low_Poly_airship:cube1
+    4300006: Low_Poly_airship:cube
+    4300008: Low_Poly_airship:cube2
+    4300010: pCylinder2
+    4300012: pCylinder4
+    4300014: pCylinder3
+    4300016: pCylinder1
+    4300018: Low_Poly_airship:baloon
+    4300020: Low_Poly_airship:sper
+    4300022: Low_Poly_airship:propeller4
+    4300024: Low_Poly_airship:propeller3
+    4300026: Low_Poly_airship:propeller2
+    4300028: Low_Poly_airship:propeller1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
